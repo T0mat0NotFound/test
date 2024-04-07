@@ -1,1 +1,7 @@
 This is a test repository for group project.
+PyGithub is a Python library to use the GIthub API. With it,
+you can manage your Github resources(repositories, user profiles, organizations, etc.)
+from Python scripts.
+
+test for commits
+.......###########3456789087654345678909876543
